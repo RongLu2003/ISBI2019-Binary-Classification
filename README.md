@@ -1,1 +1,1 @@
-# C-NMC-Binary-Classification
+# C-NMC//ISBI2019-Binary-Classification
